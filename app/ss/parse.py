@@ -120,7 +120,7 @@ def gen_uri(servers):
                 "obfs_param": "",
                 "fast_open": False,
                 "workers": 1,
-                "group": "ss.pythonic.life"
+                "group": "gafan-ss"
             },'''
 
     result_servers = list()
