@@ -15,7 +15,7 @@ from apscheduler.schedulers.background import BackgroundScheduler
 
 
 # Config for disqus comment board
-DOMAIN = 'http://ss.pythonic.life'
+DOMAIN = 'https://freessshare.herokuapp.com/'
 DISQUS_IDENTIFIER = 'shadowsocksshare'
 
 
